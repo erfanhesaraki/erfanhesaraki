@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **REACT, JAVASCRIPT,BOOT STRAP, CSS3 , HTML5**
 
-- 📫 How to reach me **Erfan.hesaraki@gamil.com**
+- 📫 How to reach me **erfan.hesaraki@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
